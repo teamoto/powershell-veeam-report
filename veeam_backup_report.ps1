@@ -24,7 +24,7 @@ $outputFolder = "c:\temp"
 $sendEmail = "no" # please use either "yes" or "no" to determine whether sending an email or not
 $fromAddress = "veeam@your_domain.com"
 $recipients = "your_email_address@your_domain.com" # for single destination
-# $recipients = (your_email_address@your_domain.com",your_boss_s_email_address@your_domain.com") # for multi-destination (you can add destinations by adding comma and quotes)
+# $recipients = ("your_email_address@your_domain.com","your_boss_s_email_address@your_domain.com") # for multi-destination (you can add destinations by adding comma and quotes)
 $message = "Please see the attached report."
 $smtpServer = "smtp.your_domain.com"
 
