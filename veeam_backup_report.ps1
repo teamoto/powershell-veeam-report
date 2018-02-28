@@ -6,6 +6,8 @@
 ## This scripts retrieves results of each backup job on Veeam Backup and Replication.
 ## Also you have an option to send the report to specific email address(es).
 ##
+## I borrowed a chunk of the code (especially css part) from the following:
+## https://gallery.technet.microsoft.com/Windows-Server-Health-4414851b
 
 
 #### User defined variables ####
